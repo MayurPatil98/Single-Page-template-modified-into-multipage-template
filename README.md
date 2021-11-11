@@ -1,10 +1,6 @@
 # Single-Page-template-modified-into-multipage-template
 Single Page template modified into multipage template
 
-# Original single Page template
-
-![single page den](https://user-images.githubusercontent.com/92413748/141263802-0e401806-22ea-4ddc-a621-a1d8b29c2e2a.png)
-
 # Modified Multiple Pages Template
 # Home Page
 
@@ -25,3 +21,7 @@ Single Page template modified into multipage template
 # Contact Page
 
 ![contact](https://user-images.githubusercontent.com/92413748/141264473-a1e3a576-b0c7-4299-9611-e8d46a7fbd3e.png)
+
+# Original single Page template
+
+![single page den](https://user-images.githubusercontent.com/92413748/141263802-0e401806-22ea-4ddc-a621-a1d8b29c2e2a.png)
