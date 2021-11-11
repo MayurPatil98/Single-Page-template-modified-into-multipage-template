@@ -6,7 +6,7 @@ Single Page template modified into multipage template
 ![single page den](https://user-images.githubusercontent.com/92413748/141263802-0e401806-22ea-4ddc-a621-a1d8b29c2e2a.png)
 
 # Modified Multiple Pages Template
-#Home Page
+# Home Page
 
 ![home](https://user-images.githubusercontent.com/92413748/141264036-339f119b-0995-4dfb-bc2b-836b11f72f1f.png)
 
